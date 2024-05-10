@@ -1,7 +1,8 @@
 # hello-streamlit
 
-My first Streamlit app.  
-[![hello-streamlit app](https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge&logo=streamlit)](https://heiwa4126-hello.streamlit.app/)
+My first Streamlit app.
+
+[Check out this awesome Streamlit app I built.<br>![hello-streamlit app](https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge&logo=streamlit)](https://heiwa4126-hello.streamlit.app/)
 
 ## License
 
